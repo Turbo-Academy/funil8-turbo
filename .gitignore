@@ -1,0 +1,5 @@
+.DS_Store
+_private/
+*.log
+__pycache__/
+*.pyc
