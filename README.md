@@ -89,4 +89,4 @@ Ver [LICENSE](LICENSE).
 
 ---
 
-**Turbo Academy** · [Squad Turbo LPSG completo](https://github.com/Turbo-Academy/squad-turbo-lpsg-6.1) · [Gestor de Tráfego Turbo](https://github.com/Turbo-Academy/gestor-trafego-turbo)
+**Turbo Academy** · [Squad Turbo LPSG completo](https://github.com/Turbo-Academy/squad-turbo-lpsg-7.0) · [Gestor de Tráfego Turbo](https://github.com/Turbo-Academy/gestor-trafego-turbo)
