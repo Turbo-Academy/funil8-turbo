@@ -45,6 +45,9 @@ Este pacote roda sozinho. Você não precisa do Squad Turbo completo para usar.
 
 ## Instalação
 
+> 🚀 **Nunca usou o Claude Code?** Siga o **[INSTALACAO-DO-ZERO.md](INSTALACAO-DO-ZERO.md)** — tudo pelo app Claude Desktop: você cola `instale o funil 8 github.com/Turbo-Academy/funil8-turbo` no Code e o próprio Claude instala. Versão bonita: baixe o repo e abra `instalacao-do-zero.html`.
+
+
 ```bash
 git clone https://github.com/Turbo-Academy/funil8-turbo.git
 cd funil8-turbo
