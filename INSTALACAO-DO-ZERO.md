@@ -1,6 +1,6 @@
 # 🚀 Instalação do zero — um comando no Claude e o Funil 8 instalado
 
-> 🌐 **Versão bonita deste manual:** baixe o repositório e abra [`instalacao-do-zero.html`](instalacao-do-zero.html) no navegador — com botão de copiar em cada comando.
+> 🌐 **Versão bonita deste manual:** [ta.turboacademy.com.br/funil8turbo](https://ta.turboacademy.com.br/funil8turbo/) — com botão de copiar em cada comando.
 
 > **Para quem nunca usou o Claude Code.** Tudo pelo **app Claude Desktop**: você cola **um comando com o link do GitHub** e o próprio Claude baixa e instala. Sem Terminal, sem ZIP, sem git, sem senha.
 >
